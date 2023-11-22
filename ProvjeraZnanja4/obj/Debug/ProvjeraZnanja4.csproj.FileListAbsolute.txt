@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Documents\Iva\ProvjeraZnanja4\obj\Debug\ProvjeraZnanja4.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\Iva\ProvjeraZnanja4\obj\Debug\ProvjeraZnanja4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\Iva\ProvjeraZnanja4\obj\Debug\ProvjeraZnanja4.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\Iva\ProvjeraZnanja4\bin\Debug\ProvjeraZnanja4.exe.config
+C:\Users\Ucenik\Documents\Iva\ProvjeraZnanja4\bin\Debug\ProvjeraZnanja4.exe
+C:\Users\Ucenik\Documents\Iva\ProvjeraZnanja4\bin\Debug\ProvjeraZnanja4.pdb
+C:\Users\Ucenik\Documents\Iva\ProvjeraZnanja4\obj\Debug\ProvjeraZnanja4.exe
+C:\Users\Ucenik\Documents\Iva\ProvjeraZnanja4\obj\Debug\ProvjeraZnanja4.pdb
